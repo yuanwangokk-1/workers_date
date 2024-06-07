@@ -1,41 +1,8 @@
-icook.hk	#官网优选
-ip.sb	#官网优选
-japan.com	#官网优选
-skk.moe	#官网优选
-www.visa.com	#官网优选
-www.visa.co.jp	#官网优选
-www.visakorea.com	#官网优选
-www.gco.gov.qa	#官网优选
-www.csgo.com	#官网优选
-www.whatismyip.com	#官网优选
-gamer.com.tw	#官网优选
-steamdb.info	#官网优选
-toy-people.com	#官网优选
-silkbook.com	#官网优选
-cdn.anycast.eu.org	#官网优选
-shopify.com	#官网优选
-www.visa.com.tw	#官网优选
-time.is	#官网优选
-www.hugedomains.com	#官网优选
-www.visa.com.sg	#官网优选
-www.whoer.net	#官网优选
-www.visa.com.hk	#官网优选
-malaysia.com	#官网优选
-www.ipget.net	#官网优选
-icook.tw	#官网优选
-www.gov.ua	#官网优选
-www.udacity.com	#官网优选
-www.shopify.com	#官网优选
-singapore.com	#官网优选
-russia.com	#官网优选
-www.4chan.org	#官网优选
-www.glassdoor.com	#官网优选
-xn--b6gac.eu.org	#官网优选
-www.digitalocean.com	#官网优选
-www.udemy.com	#官网优选
-cdn-all.xn--b6gac.eu.org	#官网优选
-dnschecker.org	#官网优选
-tasteatlas.com	#官网优选
-pixiv.net	#官网优选
-comicabc.com	#官网优选
-cfip.xxxxxxxx.tk	#官网优选
+16.162.37.167:443#HK
+18.162.32.152:443#HK
+8.210.85.222:2083#HK
+8.217.164.10:2053#HK
+8.210.43.213:2083#HK
+47.242.157.96:8443#HK
+8.217.248.220:2083#HK
+8.217.164.10:2096#HK
